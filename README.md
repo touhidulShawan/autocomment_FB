@@ -1,4 +1,4 @@
-> Fun script for auto commenting on post
+> Fun script for auto commenting on Facebook post
 
 ```
 !! Warning !!
